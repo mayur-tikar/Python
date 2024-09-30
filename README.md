@@ -1,2 +1,2 @@
 # Python
-Python crash course and Data Structure
+Python crash course!!
